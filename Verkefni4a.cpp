@@ -1,3 +1,5 @@
+//Along A. Loftsson
+
 #include <iostream>
 #include <sstream>
 #include <iomanip> //Nota iomanip til þess að fá setprecision.
